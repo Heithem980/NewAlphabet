@@ -43,7 +43,7 @@
         // Create an instance 
         AlphabetTranslator translator = new AlphabetTranslator(translationMap);
 
-        //weölkhiugyuguyg
+        //
         
         // Text to translate
         string originalText = "Hello World!";
