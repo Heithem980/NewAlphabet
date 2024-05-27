@@ -8,24 +8,26 @@
     "net8.0": []
   },
   "packageFolders": {
-    "/Users/heithemghasali/.nuget/packages/": {}
+    "C:\\Users\\heith\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/heithemghasali/NewAlphabet/ConsoleApp1/ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\heith\\Source\\Repos\\NewAlphabet\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "/Users/heithemghasali/NewAlphabet/ConsoleApp1/ConsoleApp1.csproj",
-      "packagesPath": "/Users/heithemghasali/.nuget/packages/",
-      "outputPath": "/Users/heithemghasali/NewAlphabet/ConsoleApp1/obj/",
+      "projectPath": "C:\\Users\\heith\\Source\\Repos\\NewAlphabet\\ConsoleApp1\\ConsoleApp1.csproj",
+      "packagesPath": "C:\\Users\\heith\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\heith\\Source\\Repos\\NewAlphabet\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/heithemghasali/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\heith\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +66,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.204/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
