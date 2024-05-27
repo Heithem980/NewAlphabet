@@ -44,7 +44,7 @@
         AlphabetTranslator translator = new AlphabetTranslator(translationMap);
 
 
-        // Text to translate
+        
         // Text to translate
         string originalText = "Hello World!";
 
